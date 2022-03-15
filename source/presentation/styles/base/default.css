@@ -3,5 +3,5 @@ html {
 }
 
 body {
-  @apply font-body scroll-smooth min-h-screen bg-blue-gradient bg-top;
+  @apply font-body scroll-smooth overflow-hidden font-semibold min-h-screen bg-blue-gradient bg-top;
 }

@@ -5,6 +5,11 @@ module.exports = {
     "./source/presentation/components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    colors: {
+      gray: "#5A6882",
+      white: "#ffffff",
+      blue: "#1E34A1",
+    },
     fontFamily: {
       body: ["Barlow Semi Condensed", "sans-serif"],
     },
