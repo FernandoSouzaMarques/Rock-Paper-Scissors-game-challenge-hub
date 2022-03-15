@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: url('/fonts/BarlowSemiCondensed/BarlowSemiCondensed-BoldItalic.woff2') format('woff2'),
+      url('/fonts/BarlowSemiCondensed/BarlowSemiCondensed-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: url('/fonts/BarlowSemiCondensed/BarlowSemiCondensed-SemiBold.woff2') format('woff2'),
+      url('/fonts/BarlowSemiCondensed/BarlowSemiCondensed-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: url('/fonts/BarlowSemiCondensed/BarlowSemiCondensed-Bold.woff2') format('woff2'),
+      url('/fonts/BarlowSemiCondensed/BarlowSemiCondensed-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: url('/fonts/BarlowSemiCondensed/BarlowSemiCondensed-SemiBoldItalic.woff2') format('woff2'),
+      url('/fonts/BarlowSemiCondensed/BarlowSemiCondensed-SemiBoldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
